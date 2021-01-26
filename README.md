@@ -1,5 +1,7 @@
 # 72-Republic-Day
 
+- css code
+```
 /* Frame 1 */
 
 position: relative;
@@ -74,7 +76,7 @@ line-height: 66px;
 /* identical to box height */
 
 color: #000000;
-
+```
 
 ## output
 
